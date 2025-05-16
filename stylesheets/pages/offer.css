@@ -34,6 +34,9 @@ h1 > picture > img {
   width: 1022px;
   margin: 0 auto;
 }
+.center {
+  text-align: center;
+}
 .rel {
   position: relative;
 }
@@ -87,5 +90,6 @@ h1 > picture > img {
 .delivery {
   margin-top: 10px;
   font-size: 14px;
+  text-align: left;
   color: var(--color-gray-700);
 }
